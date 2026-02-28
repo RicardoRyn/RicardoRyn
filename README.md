@@ -11,4 +11,6 @@
   <em>Currently leveling up in:</em>
 </p>
 
-[![Hello world!](https://skillicons.dev/icons?i=py,rust,lua,bash,md,neovim,vim,vscode,sublime,windows,arch,ubuntu,github,anaconda,pytorch)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=py,rust,lua,bash,md,neovim,vim,vscode,sublime,windows,arch,ubuntu,github,anaconda,pytorch)](https://skillicons.dev)
+
+![My GitHub Game](game.gif)
