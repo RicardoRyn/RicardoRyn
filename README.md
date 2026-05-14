@@ -1,5 +1,6 @@
 # Hi there, I'm RicardoRyn 👋
 
-![Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
+<p>
+  <img src="./profile/stats.svg" alt="Stats" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="37%" />
+</p>
